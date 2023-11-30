@@ -368,5 +368,26 @@
     "jcym/6 PSR_Ridecymbol.wav",
     "jcym/7 WADR-80R-CCY-A-1HIFI.wav"
   ],
-  "shay": ["shay/0.wav", "shay/1.wav", "shay/2.wav", "shay/3.wav"]
+  "shay": ["shay/0.wav", "shay/1.wav", "shay/2.wav", "shay/3.wav"],
+  "oil": [
+    "oil/1oil.wav",
+    "oil/2oil.wav",
+    "oil/3oil.wav",
+    "oil/4oil.wav",
+    "oil/5oil.wav"
+  ],
+  "margret": [
+    "margret/1marg.wav",
+    "margret/2marg.wav",
+    "margret/3marg.wav",
+    "margret/4marg.wav",
+    "margret/5marg.wav"
+  ],
+  "bjork": [
+    "bjork/1bjork.wav",
+    "bjork/2bjork.wav",
+    "bjork/3bjork.wav",
+    "bjork/4bjork.wav",
+    "bjork/5bjork.wav"
+  ]
 }
